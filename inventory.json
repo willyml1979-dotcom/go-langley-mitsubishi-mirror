@@ -1,6 +1,6 @@
 {
   "dealership": "Go Langley Mitsubishi",
-  "generated_at": "2026-10-22T19:18:31",
+  "generated_at": "2026-10-22T19:27:50",
   "vehicle_count": 275,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
@@ -2377,7 +2377,7 @@
       "province": "BC"
     },
     {
-      "name": "2026 Mitsubishi Eclipse Cross GT | S-AWC | 96 MONTHS AVAIL. | 1.99% OR $750 OFF",
+      "name": "2026 Mitsubishi Eclipse Cross GT | S-AWC | 96 MONTHS AVAIL. | 1.99% OR $2250 OFF",
       "vin": "JA4ATVAA4TZ601745",
       "stock": "26EC174",
       "color": "White",
@@ -2385,8 +2385,8 @@
       "url": "https://willyml1979-dotcom.github.io/go-langley-mitsubishi-mirror/new/1d02d4051137.html",
       "source_url": "https://www.langleymitsubishi.com/vehicles/2026/mitsubishi/eclipse-cross/surrey/bc/68463514/?sale_class=new",
       "dealer_url": "https://www.langleymitsubishi.com/vehicles/2026/mitsubishi/eclipse-cross/surrey/bc/68463514/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T02:21:05",
-      "price": 40823.0,
+      "last_verified": "2026-10-22T19:25:49",
+      "price": 39323.0,
       "price_currency": "CAD",
       "odometer_km": 5,
       "year": 2026,
@@ -2437,16 +2437,16 @@
       "province": "BC"
     },
     {
-      "name": "2026 Mitsubishi Eclipse Cross SE | S-AWC | 96 MONTHS AVAIL. | 1.99% OR $750 OFF",
+      "name": "2026 Mitsubishi Eclipse Cross SE S-AWC | 96 MONTHS AVAIL. | 1.99% OR $2250 OFF",
       "vin": "JA4ATVAA8TZ606446",
       "stock": "26EC644",
       "color": "White",
-      "trim": "SE",
+      "trim": "SE S-AWC",
       "url": "https://willyml1979-dotcom.github.io/go-langley-mitsubishi-mirror/new/ede4a5752a9d.html",
       "source_url": "https://www.langleymitsubishi.com/vehicles/2026/mitsubishi/eclipse-cross/surrey/bc/69766239/?sale_class=new",
       "dealer_url": "https://www.langleymitsubishi.com/vehicles/2026/mitsubishi/eclipse-cross/surrey/bc/69766239/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T02:21:16",
-      "price": 35223.0,
+      "last_verified": "2026-10-22T19:25:58",
+      "price": 33723.0,
       "price_currency": "CAD",
       "odometer_km": 50,
       "year": 2026,
@@ -2457,7 +2457,7 @@
       "province": "BC"
     },
     {
-      "name": "2026 Mitsubishi Eclipse Cross NOIR S-AWC | 96 MONTHS AVAIL. | 1.99% OR $750 OFF",
+      "name": "2026 Mitsubishi Eclipse Cross NOIR S-AWC | 96 MONTHS AVAIL. | 1.99% OR $2250 OFF",
       "vin": "JA4ATVAA4TZ612289",
       "stock": "26EC228",
       "color": "Black",
@@ -2465,8 +2465,8 @@
       "url": "https://willyml1979-dotcom.github.io/go-langley-mitsubishi-mirror/new/3d4b38ad9e00.html",
       "source_url": "https://www.langleymitsubishi.com/vehicles/2026/mitsubishi/eclipse-cross/surrey/bc/69859051/?sale_class=new",
       "dealer_url": "https://www.langleymitsubishi.com/vehicles/2026/mitsubishi/eclipse-cross/surrey/bc/69859051/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T02:21:27",
-      "price": 38273.0,
+      "last_verified": "2026-10-22T19:26:11",
+      "price": 36773.0,
       "price_currency": "CAD",
       "odometer_km": 5,
       "year": 2026,
@@ -2477,7 +2477,7 @@
       "province": "BC"
     },
     {
-      "name": "2026 Mitsubishi Eclipse Cross ES | S-AWC | 96 MONTHS AVAIL. | 1.99% OR $750 OFF",
+      "name": "2026 Mitsubishi Eclipse Cross ES | S-AWC | 96 MONTHS AVAIL. | 1.99% OR $2250 OFF",
       "vin": "JA4ATUAA2TZ618604",
       "stock": "26EC860",
       "color": "White",
@@ -2485,8 +2485,8 @@
       "url": "https://willyml1979-dotcom.github.io/go-langley-mitsubishi-mirror/new/eb321e0f2439.html",
       "source_url": "https://www.langleymitsubishi.com/vehicles/2026/mitsubishi/eclipse-cross/surrey/bc/70272640/?sale_class=new",
       "dealer_url": "https://www.langleymitsubishi.com/vehicles/2026/mitsubishi/eclipse-cross/surrey/bc/70272640/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T02:21:37",
-      "price": 31323.0,
+      "last_verified": "2026-10-22T19:26:24",
+      "price": 29823.0,
       "price_currency": "CAD",
       "odometer_km": 5,
       "year": 2026,
@@ -2497,7 +2497,7 @@
       "province": "BC"
     },
     {
-      "name": "2026 Mitsubishi Eclipse Cross ES | S-AWC | 96 MONTHS AVAIL. | 1.99% OR $750 OFF",
+      "name": "2026 Mitsubishi Eclipse Cross ES | S-AWC | 96 MONTHS AVAIL. | 1.99% OR $2250 OFF",
       "vin": "JA4ATUAA8TZ620521",
       "stock": "26EC052",
       "color": "White",
@@ -2505,8 +2505,8 @@
       "url": "https://willyml1979-dotcom.github.io/go-langley-mitsubishi-mirror/new/70a2a2b5c9ff.html",
       "source_url": "https://www.langleymitsubishi.com/vehicles/2026/mitsubishi/eclipse-cross/surrey/bc/70593933/?sale_class=new",
       "dealer_url": "https://www.langleymitsubishi.com/vehicles/2026/mitsubishi/eclipse-cross/surrey/bc/70593933/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T02:21:45",
-      "price": 31323.0,
+      "last_verified": "2026-10-22T19:26:35",
+      "price": 29823.0,
       "price_currency": "CAD",
       "odometer_km": 5,
       "year": 2026,
@@ -2517,7 +2517,7 @@
       "province": "BC"
     },
     {
-      "name": "2026 Mitsubishi Eclipse Cross ES | S-AWC | 96 MONTHS AVAIL. | MANAGER'S DEMO",
+      "name": "2026 Mitsubishi Eclipse Cross ES | S-AWC | MANAGER'S DEMO | $3750 OFF",
       "vin": "JA4ATUAA9TZ602898",
       "stock": "26EC289",
       "color": "White",
@@ -2525,8 +2525,8 @@
       "url": "https://willyml1979-dotcom.github.io/go-langley-mitsubishi-mirror/new/1b2ace96b06c.html",
       "source_url": "https://www.langleymitsubishi.com/vehicles/2026/mitsubishi/eclipse-cross/surrey/bc/70640431/?sale_class=new",
       "dealer_url": "https://www.langleymitsubishi.com/vehicles/2026/mitsubishi/eclipse-cross/surrey/bc/70640431/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T02:21:57",
-      "price": 31323.0,
+      "last_verified": "2026-10-22T19:26:45",
+      "price": 28323.0,
       "price_currency": "CAD",
       "odometer_km": 5960,
       "year": 2026,
@@ -2597,7 +2597,7 @@
       "province": "BC"
     },
     {
-      "name": "2026 Mitsubishi Eclipse Cross ES | S-AWC | 96 MONTHS AVAIL. | 1.99% OR $750 OFF",
+      "name": "2026 Mitsubishi Eclipse Cross ES | S-AWC | 96 MONTHS AVAIL. | 1.99% OR $2250 OFF",
       "vin": "JA4ATUAA4TZ623223",
       "stock": "26EC322",
       "color": "White",
@@ -2605,8 +2605,8 @@
       "url": "https://willyml1979-dotcom.github.io/go-langley-mitsubishi-mirror/new/72e7e831f1e3.html",
       "source_url": "https://www.langleymitsubishi.com/vehicles/2026/mitsubishi/eclipse-cross/surrey/bc/70874847/?sale_class=new",
       "dealer_url": "https://www.langleymitsubishi.com/vehicles/2026/mitsubishi/eclipse-cross/surrey/bc/70874847/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T02:22:07",
-      "price": 31323.0,
+      "last_verified": "2026-10-22T19:26:56",
+      "price": 29823.0,
       "price_currency": "CAD",
       "odometer_km": 5,
       "year": 2026,
@@ -2617,7 +2617,7 @@
       "province": "BC"
     },
     {
-      "name": "2026 Mitsubishi Eclipse Cross ES | S-AWC | 96 MONTHS AVAIL. | 1.99% OR $750 OFF",
+      "name": "2026 Mitsubishi Eclipse Cross ES | S-AWC | 96 MONTHS AVAIL. | 1.99% OR $2250 OFF",
       "vin": "JA4ATUAA4TZ625411",
       "stock": "26EC541",
       "color": "Grey",
@@ -2625,8 +2625,8 @@
       "url": "https://willyml1979-dotcom.github.io/go-langley-mitsubishi-mirror/new/8825b995d9df.html",
       "source_url": "https://www.langleymitsubishi.com/vehicles/2026/mitsubishi/eclipse-cross/surrey/bc/71122080/?sale_class=new",
       "dealer_url": "https://www.langleymitsubishi.com/vehicles/2026/mitsubishi/eclipse-cross/surrey/bc/71122080/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T02:22:16",
-      "price": 31023.0,
+      "last_verified": "2026-10-22T19:27:06",
+      "price": 29523.0,
       "price_currency": "CAD",
       "odometer_km": 5,
       "year": 2026,
@@ -2977,7 +2977,7 @@
       "province": "BC"
     },
     {
-      "name": "2026 Mitsubishi Outlander PHEV SE | S-AWC | PANOROOF | YAMAHA SOUND | $425O OFF",
+      "name": "2026 Mitsubishi Outlander PHEV SE | S-AWC | PANOROOF | YAMAHA SOUND | $875O OFF",
       "vin": "JA4T5VA90TZ610645",
       "stock": "26PH064",
       "color": "Grey",
@@ -2985,8 +2985,8 @@
       "url": "https://willyml1979-dotcom.github.io/go-langley-mitsubishi-mirror/new/b1c2f02b23af.html",
       "source_url": "https://www.langleymitsubishi.com/vehicles/2026/mitsubishi/outlander-phev/surrey/bc/69640535/?sale_class=new",
       "dealer_url": "https://www.langleymitsubishi.com/vehicles/2026/mitsubishi/outlander-phev/surrey/bc/69640535/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T02:22:27",
-      "price": 50723.0,
+      "last_verified": "2026-10-22T19:27:15",
+      "price": 46223.0,
       "price_currency": "CAD",
       "odometer_km": 5,
       "year": 2026,
@@ -2997,7 +2997,7 @@
       "province": "BC"
     },
     {
-      "name": "2026 Mitsubishi Outlander PHEV SEL | S-AWC | PANOROOF | 360 CAM | $4250 OFF",
+      "name": "2026 Mitsubishi Outlander PHEV SEL | S-AWC | PANOROOF | 360 CAM | $6250 OFF",
       "vin": "JA4T5VA93TZ610624",
       "stock": "26PH062",
       "color": "Black",
@@ -3005,8 +3005,8 @@
       "url": "https://willyml1979-dotcom.github.io/go-langley-mitsubishi-mirror/new/30175858704e.html",
       "source_url": "https://www.langleymitsubishi.com/vehicles/2026/mitsubishi/outlander-phev/surrey/bc/69640536/?sale_class=new",
       "dealer_url": "https://www.langleymitsubishi.com/vehicles/2026/mitsubishi/outlander-phev/surrey/bc/69640536/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T02:22:37",
-      "price": 56023.0,
+      "last_verified": "2026-10-22T19:27:24",
+      "price": 54023.0,
       "price_currency": "CAD",
       "odometer_km": 5,
       "year": 2026,
@@ -3017,7 +3017,7 @@
       "province": "BC"
     },
     {
-      "name": "2026 Mitsubishi Outlander PHEV SE | S-AWC | PANOROOF | YAMAHA SOUND | $425O OFF",
+      "name": "2026 Mitsubishi Outlander PHEV SE | S-AWC | PANOROOF | YAMAHA SOUND | $875O OFF",
       "vin": "JA4T5VA9XTZ613021",
       "stock": "26PH302",
       "color": "Black",
@@ -3025,8 +3025,8 @@
       "url": "https://willyml1979-dotcom.github.io/go-langley-mitsubishi-mirror/new/a30953cd11de.html",
       "source_url": "https://www.langleymitsubishi.com/vehicles/2026/mitsubishi/outlander-phev/surrey/bc/69911111/?sale_class=new",
       "dealer_url": "https://www.langleymitsubishi.com/vehicles/2026/mitsubishi/outlander-phev/surrey/bc/69911111/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T02:22:48",
-      "price": 50873.0,
+      "last_verified": "2026-10-22T19:27:35",
+      "price": 46373.0,
       "price_currency": "CAD",
       "odometer_km": 5,
       "year": 2026,
@@ -3037,7 +3037,7 @@
       "province": "BC"
     },
     {
-      "name": "2026 Mitsubishi Outlander PHEV GT | S-AWC | PANOROOF | 360 CAM | $4250 OFF",
+      "name": "2026 Mitsubishi Outlander PHEV GT | S-AWC | PANOROOF | 360 CAM | $6750 OFF",
       "vin": "JA4T5WA99TZ613551",
       "stock": "26PH355",
       "color": "White",
@@ -3045,8 +3045,8 @@
       "url": "https://willyml1979-dotcom.github.io/go-langley-mitsubishi-mirror/new/af6869d234ac.html",
       "source_url": "https://www.langleymitsubishi.com/vehicles/2026/mitsubishi/outlander-phev/surrey/bc/69911115/?sale_class=new",
       "dealer_url": "https://www.langleymitsubishi.com/vehicles/2026/mitsubishi/outlander-phev/surrey/bc/69911115/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T02:22:58",
-      "price": 59473.0,
+      "last_verified": "2026-10-22T19:27:46",
+      "price": 56973.0,
       "price_currency": "CAD",
       "odometer_km": 5,
       "year": 2026,
@@ -5377,7 +5377,7 @@
       "province": "BC"
     },
     {
-      "name": "2027 Mitsubishi RVR ES | AWC | ANDROID & APPLE | 4.99% UP TO 84 MONTHS",
+      "name": "2027 Mitsubishi RVR ES | AWC | 4.99% UP TO 84 MONTHS OR 750 OFF",
       "vin": "JA4AJUAUXVU602473",
       "stock": "27RV247",
       "color": "White",
@@ -5385,8 +5385,8 @@
       "url": "https://willyml1979-dotcom.github.io/go-langley-mitsubishi-mirror/new/1d76918de384.html",
       "source_url": "https://www.langleymitsubishi.com/vehicles/2027/mitsubishi/rvr/surrey/bc/71498291/?sale_class=new",
       "dealer_url": "https://www.langleymitsubishi.com/vehicles/2027/mitsubishi/rvr/surrey/bc/71498291/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T02:20:34",
-      "price": 30083.0,
+      "last_verified": "2026-10-22T19:25:14",
+      "price": 29333.0,
       "price_currency": "CAD",
       "odometer_km": 5,
       "year": 2027,
@@ -5397,7 +5397,7 @@
       "province": "BC"
     },
     {
-      "name": "2027 Mitsubishi RVR ES | AWC | ANDROID & APPLE | 4.99% UP TO 84 MONTHS",
+      "name": "2027 Mitsubishi RVR ES | AWC | 4.99% UP TO 84 MONTHS OR 750 OFF",
       "vin": "JA4AJUAU8VU602200",
       "stock": "27RV220",
       "color": "Grey",
@@ -5405,8 +5405,8 @@
       "url": "https://willyml1979-dotcom.github.io/go-langley-mitsubishi-mirror/new/2b7b393de55a.html",
       "source_url": "https://www.langleymitsubishi.com/vehicles/2027/mitsubishi/rvr/surrey/bc/71498292/?sale_class=new",
       "dealer_url": "https://www.langleymitsubishi.com/vehicles/2027/mitsubishi/rvr/surrey/bc/71498292/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T02:20:45",
-      "price": 29783.0,
+      "last_verified": "2026-10-22T19:25:26",
+      "price": 29033.0,
       "price_currency": "CAD",
       "odometer_km": 5,
       "year": 2027,
@@ -5417,7 +5417,7 @@
       "province": "BC"
     },
     {
-      "name": "2027 Mitsubishi RVR ES | AWC | ANDROID & APPLE | 4.99% UP TO 84 MONTHS",
+      "name": "2027 Mitsubishi RVR ES | AWC | 4.99% UP TO 84 MONTHS OR 750 OFF",
       "vin": "JA4AJUAU9VU602173",
       "stock": "27RV217",
       "color": "Black",
@@ -5425,8 +5425,8 @@
       "url": "https://willyml1979-dotcom.github.io/go-langley-mitsubishi-mirror/new/2ad8bd03a7fe.html",
       "source_url": "https://www.langleymitsubishi.com/vehicles/2027/mitsubishi/rvr/surrey/bc/71498293/?sale_class=new",
       "dealer_url": "https://www.langleymitsubishi.com/vehicles/2027/mitsubishi/rvr/surrey/bc/71498293/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T02:20:55",
-      "price": 29933.0,
+      "last_verified": "2026-10-22T19:25:37",
+      "price": 29183.0,
       "price_currency": "CAD",
       "odometer_km": 5,
       "year": 2027,
