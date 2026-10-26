@@ -1,6 +1,6 @@
 {
   "dealership": "Go Langley Mitsubishi",
-  "generated_at": "2026-10-25T21:04:09",
+  "generated_at": "2026-10-26T05:48:45",
   "vehicle_count": 276,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -13,7 +13,7 @@
       "make": "Dodge",
       "model": "Challenger",
       "condition": "used",
-      "price": 23499.0,
+      "price": 22999.0,
       "price_currency": "CAD"
     },
     {
@@ -172,7 +172,7 @@
       "make": "Nissan",
       "model": "Rogue",
       "condition": "used",
-      "price": 17597.0,
+      "price": 16999.0,
       "price_currency": "CAD"
     },
     {
@@ -293,7 +293,7 @@
       "make": "Mitsubishi",
       "model": "RVR",
       "condition": "used",
-      "price": 17797.0,
+      "price": 17658.0,
       "price_currency": "CAD"
     },
     {
@@ -339,6 +339,15 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2021 Jeep Grand Cherokee",
+      "vin": "1C4RJFBG3MC697878",
+      "url": "https://willyml1979-dotcom.github.io/go-langley-mitsubishi-mirror/used/c14ee68e4136.html",
+      "year": 2021,
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "condition": "used"
+    },
+    {
       "name": "2021 Mazda Mazda3 Sport GS | SMALL CLAIM UNDER $2000 CARFAX | BC LOCAL",
       "vin": "JM1BPALL4M1337027",
       "url": "https://willyml1979-dotcom.github.io/go-langley-mitsubishi-mirror/used/b62164212741.html",
@@ -368,7 +377,7 @@
       "make": "Mitsubishi",
       "model": "RVR",
       "condition": "used",
-      "price": 18697.0,
+      "price": 17999.0,
       "price_currency": "CAD"
     },
     {
@@ -467,7 +476,7 @@
       "make": "Jeep",
       "model": "Wrangler",
       "condition": "used",
-      "price": 39999.0,
+      "price": 39561.0,
       "price_currency": "CAD"
     },
     {
@@ -500,7 +509,7 @@
       "make": "Nissan",
       "model": "Pathfinder",
       "condition": "used",
-      "price": 34999.0,
+      "price": 34499.0,
       "price_currency": "CAD"
     },
     {
@@ -518,6 +527,15 @@
       "name": "2022 Toyota RAV4 Prime",
       "vin": "JTMGB3FV2ND088627",
       "url": "https://willyml1979-dotcom.github.io/go-langley-mitsubishi-mirror/used/54356cdbe792.html",
+      "year": 2022,
+      "make": "Toyota",
+      "model": "RAV4",
+      "condition": "used"
+    },
+    {
+      "name": "2022 Toyota RAV4",
+      "vin": "2T3R1RFV0NC261063",
+      "url": "https://willyml1979-dotcom.github.io/go-langley-mitsubishi-mirror/used/12cefe989b44.html",
       "year": 2022,
       "make": "Toyota",
       "model": "RAV4",
@@ -575,7 +593,7 @@
       "make": "Honda",
       "model": "Civic",
       "condition": "used",
-      "price": 25321.0,
+      "price": 24999.0,
       "price_currency": "CAD"
     },
     {
@@ -595,17 +613,6 @@
       "make": "Mitsubishi",
       "model": "Outlander PHEV",
       "condition": "used"
-    },
-    {
-      "name": "2023 Mitsubishi Outlander GT S-AWC | BC LOCAL (Rates from 0.90% Financing)",
-      "vin": "JA4J4VA8XPZ615536",
-      "url": "https://willyml1979-dotcom.github.io/go-langley-mitsubishi-mirror/used/e592841b2c72.html",
-      "year": 2023,
-      "make": "Mitsubishi",
-      "model": "Outlander",
-      "condition": "used",
-      "price": 31999.0,
-      "price_currency": "CAD"
     },
     {
       "name": "2023 Mitsubishi RVR ES | CLEAN CARFAX (Rates from 0.90% Financing)",
@@ -670,7 +677,7 @@
       "make": "Nissan",
       "model": "Sentra",
       "condition": "used",
-      "price": 19479.0,
+      "price": 19399.0,
       "price_currency": "CAD"
     },
     {
@@ -742,17 +749,6 @@
       "model": "CX-90 PHEV",
       "condition": "used",
       "price": 41372.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Mitsubishi Eclipse Cross SE S-AWC CLEAN CARFAX (Rates from 0.90% Financing)",
-      "vin": "JA4ATVAA6RZ600685",
-      "url": "https://willyml1979-dotcom.github.io/go-langley-mitsubishi-mirror/used/d3397b4292e9.html",
-      "year": 2024,
-      "make": "Mitsubishi",
-      "model": "Eclipse Cross",
-      "condition": "used",
-      "price": 23497.0,
       "price_currency": "CAD"
     },
     {
@@ -1043,7 +1039,7 @@
       "make": "Mitsubishi",
       "model": "Outlander PHEV",
       "condition": "used",
-      "price": 38999.0,
+      "price": 37999.0,
       "price_currency": "CAD"
     },
     {
@@ -1054,7 +1050,7 @@
       "make": "Mitsubishi",
       "model": "Outlander PHEV",
       "condition": "used",
-      "price": 42871.0,
+      "price": 42497.0,
       "price_currency": "CAD"
     },
     {
@@ -1065,7 +1061,7 @@
       "make": "Mitsubishi",
       "model": "Outlander PHEV",
       "condition": "used",
-      "price": 38999.0,
+      "price": 38782.0,
       "price_currency": "CAD"
     },
     {
@@ -1204,7 +1200,7 @@
       "make": "Mitsubishi",
       "model": "Outlander PHEV",
       "condition": "used",
-      "price": 40999.0,
+      "price": 41872.0,
       "price_currency": "CAD"
     },
     {
