@@ -1,7 +1,7 @@
 {
   "dealership": "Go Langley Mitsubishi",
-  "generated_at": "2026-10-26T05:59:41",
-  "vehicle_count": 273,
+  "generated_at": "2026-11-17T02:57:14",
+  "vehicle_count": 270,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -17,12 +17,34 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2017 Mitsubishi Lancer Sportback",
-      "vin": "JA32X2HUXHU601636",
-      "url": "https://willyml1979-dotcom.github.io/go-langley-mitsubishi-mirror/used/b55f0b76f770.html",
-      "year": 2017,
+      "name": "2015 Toyota RAV4 LE",
+      "vin": "2T3BFREV7FW323496",
+      "url": "https://willyml1979-dotcom.github.io/go-langley-mitsubishi-mirror/used/503a44e3a558.html",
+      "year": 2015,
+      "make": "Toyota",
+      "model": "RAV4",
+      "condition": "used",
+      "price": 20999.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2016 MINI 3 Door John Cooper Works",
+      "vin": "WMWXM9C56GT996876",
+      "url": "https://willyml1979-dotcom.github.io/go-langley-mitsubishi-mirror/used/12d69cd68620.html",
+      "year": 2016,
+      "make": "MINI",
+      "model": "3 Door John Cooper Works",
+      "condition": "used",
+      "price": 17998.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2016 Mitsubishi Outlander ES",
+      "vin": "JA4AZ2A30GZ603769",
+      "url": "https://willyml1979-dotcom.github.io/go-langley-mitsubishi-mirror/used/94754c93b9ec.html",
+      "year": 2016,
       "make": "Mitsubishi",
-      "model": "Lancer",
+      "model": "Outlander",
       "condition": "used"
     },
     {
@@ -37,15 +59,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2018 Honda Accord Sedan Sport CVT",
-      "vin": "1HGCV1F3XJA806690",
-      "url": "https://willyml1979-dotcom.github.io/go-langley-mitsubishi-mirror/used/32230292c6f9.html",
-      "year": 2018,
-      "make": "Honda",
-      "model": "Accord",
-      "condition": "used"
-    },
-    {
       "name": "2018 Honda Accord Sedan ",
       "vin": "1HGCV1F34JA803042",
       "url": "https://willyml1979-dotcom.github.io/go-langley-mitsubishi-mirror/used/412dffc33136.html",
@@ -54,17 +67,6 @@
       "model": "Accord Sedan",
       "condition": "used",
       "price": 17999.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2018 Mazda Mazda3 Sport GT | SUNROOF | ADAPTIVE CRUISE | BC LOCAL",
-      "vin": "3MZBN1M32JM192229",
-      "url": "https://willyml1979-dotcom.github.io/go-langley-mitsubishi-mirror/used/ba17253835b5.html",
-      "year": 2018,
-      "make": "Mazda",
-      "model": "Mazda3",
-      "condition": "used",
-      "price": 17499.0,
       "price_currency": "CAD"
     },
     {
@@ -90,25 +92,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2018 RAM 1500 ",
+      "name": "2018 RAM 1500 TRADESMAN | 4X4 | V6 | ECO DIESEL | BACKUP CAMERA",
       "vin": "1C6RR7SM8JS356313",
       "url": "https://willyml1979-dotcom.github.io/go-langley-mitsubishi-mirror/used/e1ba3244a19e.html",
       "year": 2018,
       "make": "RAM",
       "model": "1500",
       "condition": "used",
-      "price": 23999.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2019 Acura RDX A-Spec | SH-AWD | PANOROOF | $0 CLAIM CARFAX",
-      "vin": "5J8TC2H67KL808633",
-      "url": "https://willyml1979-dotcom.github.io/go-langley-mitsubishi-mirror/used/352aaaf37276.html",
-      "year": 2019,
-      "make": "Acura",
-      "model": "RDX",
-      "condition": "used",
-      "price": 27999.0,
+      "price": 22999.0,
       "price_currency": "CAD"
     },
     {
@@ -120,6 +111,17 @@
       "model": "Grand Caravan",
       "condition": "used",
       "price": 18321.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2019 Ford Expedition XLT",
+      "vin": "1FMJU1JT6KEA18401",
+      "url": "https://willyml1979-dotcom.github.io/go-langley-mitsubishi-mirror/used/d7d764c4cfea.html",
+      "year": 2019,
+      "make": "Ford",
+      "model": "Expedition",
+      "condition": "used",
+      "price": 36497.0,
       "price_currency": "CAD"
     },
     {
@@ -145,23 +147,47 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2019 Jeep Compass",
+      "name": "2019 Jeep Compass ALTITUDE | 4X4 | $0 CLAIM CARFAX | BC LOCAL",
       "vin": "3C4NJDBB2KT597862",
       "url": "https://willyml1979-dotcom.github.io/go-langley-mitsubishi-mirror/used/531c2acfd48f.html",
       "year": 2019,
       "make": "Jeep",
       "model": "Compass",
-      "condition": "used"
-    },
-    {
-      "name": "2019 Mazda Mazda3 Sedan GT | SUNROOF | BC LOCAL | $0 CLAIM CARFAX",
-      "vin": "3MZBPADM9KM104054",
-      "url": "https://willyml1979-dotcom.github.io/go-langley-mitsubishi-mirror/used/70ffd2e9ea8f.html",
-      "year": 2019,
-      "make": "Mazda",
-      "model": "Mazda3",
       "condition": "used",
       "price": 17999.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2019 Mitsubishi Mirage G4 ES | 5 SPEED MANUAL | BACKUP CAM | ANDROID & APPLE",
+      "vin": "ML32F3FJ8KHF06890",
+      "url": "https://willyml1979-dotcom.github.io/go-langley-mitsubishi-mirror/used/a03a31cec056.html",
+      "year": 2019,
+      "make": "Mitsubishi",
+      "model": "Mirage",
+      "condition": "used",
+      "price": 9497.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2019 Mitsubishi Mirage ES | 1 OWNER | BC LOCAL | GLASS CARFAX",
+      "vin": "ML32A3HJ2KH007060",
+      "url": "https://willyml1979-dotcom.github.io/go-langley-mitsubishi-mirror/used/9071a64341e6.html",
+      "year": 2019,
+      "make": "Mitsubishi",
+      "model": "Mirage",
+      "condition": "used",
+      "price": 13497.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2019 Mitsubishi Outlander PHEV SE Limited | S-AWC | CLEAN CARFAX | BC LOCAL",
+      "vin": "JA4J24A50KZ610859",
+      "url": "https://willyml1979-dotcom.github.io/go-langley-mitsubishi-mirror/used/8530f7371c58.html",
+      "year": 2019,
+      "make": "Mitsubishi",
+      "model": "Outlander PHEV",
+      "condition": "used",
+      "price": 21497.0,
       "price_currency": "CAD"
     },
     {
@@ -187,14 +213,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2019 Subaru Crosstrek ",
-      "vin": "JF2GTAFCXK8202170",
-      "url": "https://willyml1979-dotcom.github.io/go-langley-mitsubishi-mirror/used/0cbeee64a7b4.html",
+      "name": "2019 RAM 3500 Big Horn",
+      "vin": "3C63R3DL0KG665124",
+      "url": "https://willyml1979-dotcom.github.io/go-langley-mitsubishi-mirror/used/adba3e9bf453.html",
       "year": 2019,
-      "make": "Subaru",
-      "model": "Crosstrek",
+      "make": "RAM",
+      "model": "3500",
       "condition": "used",
-      "price": 20499.0,
+      "price": 42999.0,
       "price_currency": "CAD"
     },
     {
@@ -220,17 +246,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2020 Honda Civic Sedan TOURING | SUNROOF | 1 OWNER | BC LOCAL | LOW KM",
-      "vin": "2HGFC1F94LH102352",
-      "url": "https://willyml1979-dotcom.github.io/go-langley-mitsubishi-mirror/used/c7545ae44806.html",
-      "year": 2020,
-      "make": "Honda",
-      "model": "Civic",
-      "condition": "used",
-      "price": 18587.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2020 Honda Civic Sedan LX | BC LOCAL | ADAPTIVE CRUISE | LANE KEEP ASSIST",
       "vin": "2HGFC2F5XLH027157",
       "url": "https://willyml1979-dotcom.github.io/go-langley-mitsubishi-mirror/used/406e4f38839e.html",
@@ -239,17 +254,6 @@
       "model": "Civic",
       "condition": "used",
       "price": 17872.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2020 Honda CR-V BLACK EDITION | AWD | PANOROOF | CLEAN CARFAX",
-      "vin": "2HKRW2H98LH227397",
-      "url": "https://willyml1979-dotcom.github.io/go-langley-mitsubishi-mirror/used/a39b476823a6.html",
-      "year": 2020,
-      "make": "Honda",
-      "model": "CR-V",
-      "condition": "used",
-      "price": 28672.0,
       "price_currency": "CAD"
     },
     {
@@ -286,17 +290,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2020 Mitsubishi RVR SEL | AWC | 1 OWNER (Rates from 0.90% Financing)",
-      "vin": "JA4AJ4AW1LU602358",
-      "url": "https://willyml1979-dotcom.github.io/go-langley-mitsubishi-mirror/used/bd80c7ebe8c0.html",
-      "year": 2020,
-      "make": "Mitsubishi",
-      "model": "RVR",
-      "condition": "used",
-      "price": 17658.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2020 Nissan Rogue SPECIAL EDITION | 1 OWNER | BC LOCAL | BACKUP CAM",
       "vin": "5N1AT2MTXLC817566",
       "url": "https://willyml1979-dotcom.github.io/go-langley-mitsubishi-mirror/used/bcea322f565b.html",
@@ -308,43 +301,12 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2020 Toyota Corolla Hatchback SE | CLEAN CARFAX | BC LOCAL | ADAPTIVE CRUISE",
-      "vin": "JTNK4RBE4L3095753",
-      "url": "https://willyml1979-dotcom.github.io/go-langley-mitsubishi-mirror/used/67298141963c.html",
-      "year": 2020,
-      "make": "Toyota",
-      "model": "Corolla",
-      "condition": "used",
-      "price": 22598.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2020 Volkswagen Jetta Sedan",
       "vin": "3VWGB7BU9LM070774",
       "url": "https://willyml1979-dotcom.github.io/go-langley-mitsubishi-mirror/used/d59e300e2aa1.html",
       "year": 2020,
       "make": "Volkswagen",
       "model": "Jetta Sedan",
-      "condition": "used"
-    },
-    {
-      "name": "2020 Volkswagen Tiguan TRENDLINE | 4MOTION | BACKUP CAMERA | CLEAR CARFAX",
-      "vin": "3VV0B7AXXLM082921",
-      "url": "https://willyml1979-dotcom.github.io/go-langley-mitsubishi-mirror/used/7f414f4354f3.html",
-      "year": 2020,
-      "make": "Volkswagen",
-      "model": "Tiguan",
-      "condition": "used",
-      "price": 18759.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2021 Jeep Grand Cherokee",
-      "vin": "1C4RJFBG3MC697878",
-      "url": "https://willyml1979-dotcom.github.io/go-langley-mitsubishi-mirror/used/c14ee68e4136.html",
-      "year": 2021,
-      "make": "Jeep",
-      "model": "Grand Cherokee",
       "condition": "used"
     },
     {
@@ -392,6 +354,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2021 Toyota Tacoma Double Cab TRD OFFROAD 4x4 | SUNROOF | ADAPTIVE CRUISE",
+      "vin": "5TFCZ5AN5MX276746",
+      "url": "https://willyml1979-dotcom.github.io/go-langley-mitsubishi-mirror/used/56ec9420b845.html",
+      "year": 2021,
+      "make": "Toyota",
+      "model": "Tacoma",
+      "condition": "used",
+      "price": 49297.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2022 Dodge Charger GT | V6 | BACKUP CAM | DUAL-ZONE CLIMATE CONTROL",
       "vin": "2C3CDXHG2NH132647",
       "url": "https://willyml1979-dotcom.github.io/go-langley-mitsubishi-mirror/used/13ffc91dae77.html",
@@ -414,14 +387,25 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2022 Honda Civic Sedan TOURING | SUNROOF | BC LOCAL | CLEAN CARFAX | BOSE",
-      "vin": "2HGFE1F9XNH005444",
-      "url": "https://willyml1979-dotcom.github.io/go-langley-mitsubishi-mirror/used/8a54767963a4.html",
+      "name": "2022 GMC Terrain DENAIL | AWD | $0 CLAIM CARFAX | 1 OWNER | 360 CAM",
+      "vin": "3GKALXEV2NL201681",
+      "url": "https://willyml1979-dotcom.github.io/go-langley-mitsubishi-mirror/used/134a84b55a34.html",
+      "year": 2022,
+      "make": "GMC",
+      "model": "Terrain",
+      "condition": "used",
+      "price": 29999.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2022 Honda Civic Sedan Touring",
+      "vin": "2HGFE1F91NH007096",
+      "url": "https://willyml1979-dotcom.github.io/go-langley-mitsubishi-mirror/used/f7b1cd681432.html",
       "year": 2022,
       "make": "Honda",
       "model": "Civic",
       "condition": "used",
-      "price": 28999.0,
+      "price": 23999.0,
       "price_currency": "CAD"
     },
     {
@@ -433,17 +417,6 @@
       "model": "CR-V",
       "condition": "used",
       "price": 27597.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 Honda Pilot Black Edition | AWD | 6 SEATER | PANOROOF | NAVI",
-      "vin": "5FNYF6H02NB506074",
-      "url": "https://willyml1979-dotcom.github.io/go-langley-mitsubishi-mirror/used/fa485c8a2ab8.html",
-      "year": 2022,
-      "make": "Honda",
-      "model": "Pilot",
-      "condition": "used",
-      "price": 41238.0,
       "price_currency": "CAD"
     },
     {
@@ -502,6 +475,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2022 Mitsubishi Outlander LE | PANOROOF | ADAPTIVE CRUISE | 360 CAM | NAVI",
+      "vin": "JA4J4UA83NZ609746",
+      "url": "https://willyml1979-dotcom.github.io/go-langley-mitsubishi-mirror/used/698c7e10e27c.html",
+      "year": 2022,
+      "make": "Mitsubishi",
+      "model": "Outlander",
+      "condition": "used",
+      "price": 23672.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2022 Nissan Pathfinder PLATINUM | 4WD | V6 | 1 OWNER | BC LOCAL | 7 SEATS",
       "vin": "5N1DR3DF2NC216974",
       "url": "https://willyml1979-dotcom.github.io/go-langley-mitsubishi-mirror/used/66fca27943bf.html",
@@ -513,14 +497,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2022 Tesla Model 3 SR+ | CLEAN CARFAX | BC LOCAL | 1 OWNER | GROK AI",
-      "vin": "5YJ3E1EA2NF195629",
-      "url": "https://willyml1979-dotcom.github.io/go-langley-mitsubishi-mirror/used/19027deaddba.html",
+      "name": "2022 Toyota Highlander XSE | AWD | V6 | $0 CLAIM CARFAX | 7 SEATER",
+      "vin": "5TDLZRBH1NS196383",
+      "url": "https://willyml1979-dotcom.github.io/go-langley-mitsubishi-mirror/used/4c8d43468de0.html",
       "year": 2022,
-      "make": "Tesla",
-      "model": "Model 3",
+      "make": "Toyota",
+      "model": "Highlander",
       "condition": "used",
-      "price": 32497.0,
+      "price": 42297.0,
       "price_currency": "CAD"
     },
     {
@@ -542,25 +526,25 @@
       "condition": "used"
     },
     {
-      "name": "2022 Toyota Tacoma 4x4 Double Cab Auto SB",
+      "name": "2022 Toyota Tacoma Double Cab TRD 4x4 OFFROAD | V6 | BC LOCAL | 360 CAMERA",
       "vin": "3TYCZ5AN5NT066773",
-      "url": "https://willyml1979-dotcom.github.io/go-langley-mitsubishi-mirror/used/3cab2efa0e95.html",
+      "url": "https://willyml1979-dotcom.github.io/go-langley-mitsubishi-mirror/used/d17d884ef343.html",
       "year": 2022,
       "make": "Toyota",
       "model": "Tacoma",
       "condition": "used",
-      "price": 47213.0,
+      "price": 45672.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Dodge Challenger V8 | SUNROOF | $0 CLAIM CARFAX | LEATHER SEATS",
-      "vin": "2C3CDZFJ4PH637389",
-      "url": "https://willyml1979-dotcom.github.io/go-langley-mitsubishi-mirror/used/6b3e84f8d4a5.html",
+      "name": "2023 Chevrolet Equinox RS",
+      "vin": "3GNAXWEGXPS149535",
+      "url": "https://willyml1979-dotcom.github.io/go-langley-mitsubishi-mirror/used/af992c4b6b12.html",
       "year": 2023,
-      "make": "Dodge",
-      "model": "Challenger",
+      "make": "Chevrolet",
+      "model": "Equinox",
       "condition": "used",
-      "price": 64895.0,
+      "price": 26872.0,
       "price_currency": "CAD"
     },
     {
@@ -597,18 +581,51 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Jeep Grand Cherokee L",
+      "name": "2023 Jeep Grand Cherokee L SUMMIT L | V8 | 4x4 | CLEAN CARFAX | BC LOCAL",
       "vin": "1C4RJKET7P8707742",
       "url": "https://willyml1979-dotcom.github.io/go-langley-mitsubishi-mirror/used/749900bd799b.html",
       "year": 2023,
       "make": "Jeep",
       "model": "Grand Cherokee L",
-      "condition": "used"
+      "condition": "used",
+      "price": 46872.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2023 Mazda CX-30 GT Turbo",
+      "vin": "3MVDMBDY3PM549084",
+      "url": "https://willyml1979-dotcom.github.io/go-langley-mitsubishi-mirror/used/268bab499e6f.html",
+      "year": 2023,
+      "make": "Mazda",
+      "model": "CX-30",
+      "condition": "used",
+      "price": 30499.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2023 Mitsubishi Outlander PHEV GT S-AWC",
       "vin": "JA4T5VA98PZ614593",
       "url": "https://willyml1979-dotcom.github.io/go-langley-mitsubishi-mirror/used/f977b379eded.html",
+      "year": 2023,
+      "make": "Mitsubishi",
+      "model": "Outlander PHEV",
+      "condition": "used"
+    },
+    {
+      "name": "2023 Mitsubishi Outlander PHEV GT | S-AWC | BC LOCAL (Rates from 0.90% Financing)",
+      "vin": "JA4T5VA96PZ613880",
+      "url": "https://willyml1979-dotcom.github.io/go-langley-mitsubishi-mirror/used/8f429a23053c.html",
+      "year": 2023,
+      "make": "Mitsubishi",
+      "model": "Outlander PHEV",
+      "condition": "used",
+      "price": 36597.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2023 Mitsubishi Outlander PHEV LE",
+      "vin": "JA4T5UA98PZ607525",
+      "url": "https://willyml1979-dotcom.github.io/go-langley-mitsubishi-mirror/used/09b0588567e0.html",
       "year": 2023,
       "make": "Mitsubishi",
       "model": "Outlander PHEV",
@@ -670,36 +687,25 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Nissan Sentra SR PREMIUM | BC LOCAL | SUNROOF | 360 CAM | BOSE",
-      "vin": "3N1AB8DV7PY316887",
-      "url": "https://willyml1979-dotcom.github.io/go-langley-mitsubishi-mirror/used/107a39ef8a29.html",
+      "name": "2023 RAM 1500 Classic Crew Cab Warlock",
+      "vin": "1C6RR7LT1PS590548",
+      "url": "https://willyml1979-dotcom.github.io/go-langley-mitsubishi-mirror/used/72754b9f8613.html",
       "year": 2023,
-      "make": "Nissan",
-      "model": "Sentra",
+      "make": "RAM",
+      "model": "1500 Classic",
       "condition": "used",
-      "price": 19399.0,
+      "price": 42672.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Tesla Model Y RWD | BC LOCAL | CLEAN CARFAX | PANOROOF | GROK AI",
-      "vin": "LRWYGDFD4PC005546",
-      "url": "https://willyml1979-dotcom.github.io/go-langley-mitsubishi-mirror/used/7d632aacf827.html",
+      "name": "2023 Volkswagen Atlas Cross Sport HIGHLINE | 4MOTION | V6 | GLASS CARFAX | BC LOCAL",
+      "vin": "1V2BE2CA9PC206564",
+      "url": "https://willyml1979-dotcom.github.io/go-langley-mitsubishi-mirror/used/9989b07152e6.html",
       "year": 2023,
-      "make": "Tesla",
-      "model": "Model Y RWD",
+      "make": "Volkswagen",
+      "model": "Atlas Cross Sport",
       "condition": "used",
-      "price": 43497.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Toyota RAV4 XLE | AWD| SUNROOF | LANE KEEP | CLEAN CARFAX",
-      "vin": "2T3R1RFV5PW345395",
-      "url": "https://willyml1979-dotcom.github.io/go-langley-mitsubishi-mirror/used/9639ed83faff.html",
-      "year": 2023,
-      "make": "Toyota",
-      "model": "RAV4",
-      "condition": "used",
-      "price": 35497.0,
+      "price": 35297.0,
       "price_currency": "CAD"
     },
     {
@@ -712,14 +718,36 @@
       "condition": "used"
     },
     {
-      "name": "2024 GMC Terrain SLE | BACKUP CAMERA | CLEAN CARFAX | BC LOCAL",
-      "vin": "3GKALMEG1RL109497",
-      "url": "https://willyml1979-dotcom.github.io/go-langley-mitsubishi-mirror/used/0e48ccd9200e.html",
+      "name": "2024 Ford F-150 XLT",
+      "vin": "1FTEW3LP1RKD09119",
+      "url": "https://willyml1979-dotcom.github.io/go-langley-mitsubishi-mirror/used/b868f88913ab.html",
+      "year": 2024,
+      "make": "Ford",
+      "model": "F-150",
+      "condition": "used",
+      "price": 48597.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2024 Ford Mustang Convertible EcoBoost Premium | BC LOCAL | BLIND SPOT WARNING",
+      "vin": "1FAGP8UH9R5131717",
+      "url": "https://willyml1979-dotcom.github.io/go-langley-mitsubishi-mirror/used/ed746b760efb.html",
+      "year": 2024,
+      "make": "Ford",
+      "model": "Mustang",
+      "condition": "used",
+      "price": 33497.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2024 GMC Canyon DENALI | 4x4 | CLEAN CARFAX | BC LOCAL | 360 CAM",
+      "vin": "1GTP6FEK2R1278979",
+      "url": "https://willyml1979-dotcom.github.io/go-langley-mitsubishi-mirror/used/f8cfed0a129f.html",
       "year": 2024,
       "make": "GMC",
-      "model": "Terrain",
+      "model": "Canyon",
       "condition": "used",
-      "price": 24387.0,
+      "price": 54999.0,
       "price_currency": "CAD"
     },
     {
@@ -732,23 +760,14 @@
       "condition": "used"
     },
     {
-      "name": "2024 Mazda CX-5",
-      "vin": "JM3KFBCMXR0403358",
-      "url": "https://willyml1979-dotcom.github.io/go-langley-mitsubishi-mirror/used/c9de891ededb.html",
+      "name": "2024 Lexus NX NX250 | AWD | CLEAN CARFAX | ADAPTIVE CRUISE",
+      "vin": "2T2ADCEZ6RC005056",
+      "url": "https://willyml1979-dotcom.github.io/go-langley-mitsubishi-mirror/used/358ff4b7d3ac.html",
       "year": 2024,
-      "make": "Mazda",
-      "model": "CX-5",
-      "condition": "used"
-    },
-    {
-      "name": "2024 Mazda CX-90 PHEV GT | AWD | 1 OWNER | BC LOCAL | GLASS CARFAX",
-      "vin": "JM3KKDHA2R1132957",
-      "url": "https://willyml1979-dotcom.github.io/go-langley-mitsubishi-mirror/used/06df5c21b765.html",
-      "year": 2024,
-      "make": "Mazda",
-      "model": "CX-90 PHEV",
+      "make": "Lexus",
+      "model": "NX",
       "condition": "used",
-      "price": 41372.0,
+      "price": 38999.0,
       "price_currency": "CAD"
     },
     {
@@ -763,34 +782,47 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Mitsubishi Mirage ES | BC LOCAL (Rates from 0.90% Financing)",
-      "vin": "ML32AUHJ0RH028313",
-      "url": "https://willyml1979-dotcom.github.io/go-langley-mitsubishi-mirror/used/c3ad86709753.html",
+      "name": "2024 Mitsubishi Mirage GT | BC LOCAL | (Rates from 0.90% Financing)",
+      "vin": "ML32AWHJ4RH015253",
+      "url": "https://willyml1979-dotcom.github.io/go-langley-mitsubishi-mirror/used/ecde59ec2914.html",
       "year": 2024,
       "make": "Mitsubishi",
       "model": "Mirage",
       "condition": "used",
-      "price": 15499.0,
+      "price": 18999.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Mitsubishi Mirage",
-      "vin": "ML32AWHJ8RH005504",
-      "url": "https://willyml1979-dotcom.github.io/go-langley-mitsubishi-mirror/used/5b9f9f89e0a2.html",
+      "name": "2024 Mitsubishi Mirage ES",
+      "vin": "ML32AUHJ5RH039758",
+      "url": "https://willyml1979-dotcom.github.io/go-langley-mitsubishi-mirror/used/3c5466a4fd49.html",
       "year": 2024,
       "make": "Mitsubishi",
       "model": "Mirage",
-      "condition": "used"
+      "condition": "used",
+      "price": 16499.0,
+      "price_currency": "CAD"
     },
     {
-      "name": "2024 Mitsubishi Outlander PHEV LE S-AWC",
-      "vin": "JA4T5VA91RZ604975",
-      "url": "https://willyml1979-dotcom.github.io/go-langley-mitsubishi-mirror/used/c091c050da6c.html",
+      "name": "2024 Mitsubishi Outlander PHEV GT | S-AWC | BC LOCAL (Rates from 0.90% Financing)",
+      "vin": "JA4T5WA9XRZ606651",
+      "url": "https://willyml1979-dotcom.github.io/go-langley-mitsubishi-mirror/used/acd36c26271b.html",
       "year": 2024,
       "make": "Mitsubishi",
       "model": "Outlander PHEV",
       "condition": "used",
-      "price": 34999.0,
+      "price": 37672.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2024 Mitsubishi Outlander PHEV LE | S-AWC | GLASS CARFAX | BC LOCAL | 1 OWNER",
+      "vin": "JA4T5VA91RZ625079",
+      "url": "https://willyml1979-dotcom.github.io/go-langley-mitsubishi-mirror/used/048a0f1809e5.html",
+      "year": 2024,
+      "make": "Mitsubishi",
+      "model": "Outlander PHEV",
+      "condition": "used",
+      "price": 31999.0,
       "price_currency": "CAD"
     },
     {
@@ -823,7 +855,7 @@
       "make": "Mitsubishi",
       "model": "Outlander",
       "condition": "used",
-      "price": 37597.0,
+      "price": 36999.0,
       "price_currency": "CAD"
     },
     {
@@ -834,7 +866,7 @@
       "make": "Mitsubishi",
       "model": "Outlander",
       "condition": "used",
-      "price": 39497.0,
+      "price": 37999.0,
       "price_currency": "CAD"
     },
     {
@@ -845,60 +877,29 @@
       "make": "Mitsubishi",
       "model": "Outlander",
       "condition": "used",
-      "price": 28897.0,
+      "price": 27897.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Mitsubishi Outlander ",
+      "name": "2024 Mitsubishi Outlander GT | S-AWC | BC LOCAL (Rates from 0.90% Financing)",
       "vin": "JA4J4WA88RZ601305",
       "url": "https://willyml1979-dotcom.github.io/go-langley-mitsubishi-mirror/used/ba2ab3a7c7d7.html",
       "year": 2024,
       "make": "Mitsubishi",
       "model": "Outlander",
       "condition": "used",
-      "price": 34999.0,
+      "price": 33999.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Mitsubishi Outlander",
-      "vin": "JA4T5WA9XRZ606651",
-      "url": "https://willyml1979-dotcom.github.io/go-langley-mitsubishi-mirror/used/26b06f53b49e.html",
+      "name": "2024 Mitsubishi Outlander GT NOIR | S-AWC (Rates from 0.90% Financing)",
+      "vin": "JA4T5WA99RZ630357",
+      "url": "https://willyml1979-dotcom.github.io/go-langley-mitsubishi-mirror/used/4ac35e0d7921.html",
       "year": 2024,
       "make": "Mitsubishi",
       "model": "Outlander",
-      "condition": "used"
-    },
-    {
-      "name": "2024 Mitsubishi RVR SE AWC | CLEAN CARFAX (Rates from 0.90% Financing)",
-      "vin": "JA4AJVAW4RU601008",
-      "url": "https://willyml1979-dotcom.github.io/go-langley-mitsubishi-mirror/used/fd4f66dccc00.html",
-      "year": 2024,
-      "make": "Mitsubishi",
-      "model": "RVR",
       "condition": "used",
-      "price": 19999.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Mitsubishi RVR SE | AWC | BC LOCAL (Rates from 0.90% Financing)",
-      "vin": "JA4AJVAW0RU606769",
-      "url": "https://willyml1979-dotcom.github.io/go-langley-mitsubishi-mirror/used/9c6ec5531d31.html",
-      "year": 2024,
-      "make": "Mitsubishi",
-      "model": "RVR",
-      "condition": "used",
-      "price": 19499.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Mitsubishi RVR SE | AWC | BC LOCAL (Rates from 0.90% Financing)",
-      "vin": "JA4AJVAW8RU606759",
-      "url": "https://willyml1979-dotcom.github.io/go-langley-mitsubishi-mirror/used/0bd90f115975.html",
-      "year": 2024,
-      "make": "Mitsubishi",
-      "model": "RVR",
-      "condition": "used",
-      "price": 19872.0,
+      "price": 44999.0,
       "price_currency": "CAD"
     },
     {
@@ -933,58 +934,36 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Ford F-150 ",
-      "vin": "1FTFW3L82SKE45911",
-      "url": "https://willyml1979-dotcom.github.io/go-langley-mitsubishi-mirror/used/421f118f9358.html",
-      "year": 2025,
-      "make": "Ford",
-      "model": "F-150",
-      "condition": "used",
-      "price": 54999.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Ford Mustang Mach-E SELECT RWD | 360 CAM | 363KM RANGE | CLEAN CARFAX",
-      "vin": "3FMTK1R44SMA32643",
-      "url": "https://willyml1979-dotcom.github.io/go-langley-mitsubishi-mirror/used/762c16cfcfbe.html",
-      "year": 2025,
-      "make": "Ford",
-      "model": "Mustang Mach-E",
-      "condition": "used",
-      "price": 39999.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Kia Seltos EX AWD",
+      "name": "2025 Kia Seltos EX | AWD | CLEAN CARFAX | BC LOCAL | SUNROOF",
       "vin": "KNDEUCAAXS7791604",
       "url": "https://willyml1979-dotcom.github.io/go-langley-mitsubishi-mirror/used/aea8d7e41021.html",
       "year": 2025,
       "make": "Kia",
       "model": "Seltos",
       "condition": "used",
-      "price": 25872.0,
+      "price": 24869.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Mazda CX-30 GX AWD | BC LOCAL | CLEAN CARFAX | ADAPTIVE CRUISE",
-      "vin": "3MVDMBBM6SM852014",
-      "url": "https://willyml1979-dotcom.github.io/go-langley-mitsubishi-mirror/used/33a3e5440d74.html",
+      "name": "2025 Mazda CX-5 GT",
+      "vin": "JM3KFBDM1S0761193",
+      "url": "https://willyml1979-dotcom.github.io/go-langley-mitsubishi-mirror/used/09579ed7aaa7.html",
       "year": 2025,
       "make": "Mazda",
-      "model": "CX-30",
+      "model": "CX-5",
       "condition": "used",
-      "price": 26999.0,
+      "price": 36321.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Mazda Mazda3 Sport GT | AWD | CLAIM UNDER $2000 CARFAX | BC LOCAL",
-      "vin": "JM1BPBMM2S1751742",
-      "url": "https://willyml1979-dotcom.github.io/go-langley-mitsubishi-mirror/used/67f8840e17ae.html",
+      "name": "2025 Mazda Mazda3 Sport GS AWD | CLEAN CARFAX | SUNROOF | ADAPTIVE CRUISE",
+      "vin": "JM1BPBLM8S1785959",
+      "url": "https://willyml1979-dotcom.github.io/go-langley-mitsubishi-mirror/used/5cdb2f3e27e6.html",
       "year": 2025,
       "make": "Mazda",
       "model": "Mazda3",
       "condition": "used",
-      "price": 30999.0,
+      "price": 29597.0,
       "price_currency": "CAD"
     },
     {
@@ -996,28 +975,6 @@
       "model": "Eclipse Cross",
       "condition": "used",
       "price": 23999.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Mitsubishi Outlander PHEV SE | CLEAN CARFAX (Rates from 0.90% Financing)",
-      "vin": "JA4T5VA98SZ601030",
-      "url": "https://willyml1979-dotcom.github.io/go-langley-mitsubishi-mirror/used/0abdbb24c7b9.html",
-      "year": 2025,
-      "make": "Mitsubishi",
-      "model": "Outlander PHEV",
-      "condition": "used",
-      "price": 39999.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Mitsubishi Outlander PHEV SE | S-AWC | BC LOCAL (Rates from 0.90% Financing)",
-      "vin": "JA4T5VA94SZ612574",
-      "url": "https://willyml1979-dotcom.github.io/go-langley-mitsubishi-mirror/used/336b1ebe4188.html",
-      "year": 2025,
-      "make": "Mitsubishi",
-      "model": "Outlander PHEV",
-      "condition": "used",
-      "price": 39999.0,
       "price_currency": "CAD"
     },
     {
@@ -1054,26 +1011,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Mitsubishi Outlander PHEV SE | S-AWC | 1 OWNER (Rates from 0.90% Financing)",
-      "vin": "JA4T5VA98SZ601965",
-      "url": "https://willyml1979-dotcom.github.io/go-langley-mitsubishi-mirror/used/7e9dfa7b52b9.html",
-      "year": 2025,
-      "make": "Mitsubishi",
-      "model": "Outlander PHEV",
-      "condition": "used",
-      "price": 38782.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Mitsubishi Outlander PHEV",
-      "vin": "JA4T5WA93SZ602446",
-      "url": "https://willyml1979-dotcom.github.io/go-langley-mitsubishi-mirror/used/88631f014026.html",
-      "year": 2025,
-      "make": "Mitsubishi",
-      "model": "Outlander PHEV",
-      "condition": "used"
-    },
-    {
       "name": "2025 Mitsubishi Outlander PHEV",
       "vin": "JA4T5WA96SZ605471",
       "url": "https://willyml1979-dotcom.github.io/go-langley-mitsubishi-mirror/used/804ccd3acda4.html",
@@ -1083,14 +1020,25 @@
       "condition": "used"
     },
     {
-      "name": "2025 Mitsubishi Outlander GT | S-AWC | 1 OWNER (Rates from 0.90% Financing)",
-      "vin": "JA4J4WA89SZ617891",
-      "url": "https://willyml1979-dotcom.github.io/go-langley-mitsubishi-mirror/used/363e386671a6.html",
+      "name": "2025 Mitsubishi Outlander PHEV SEL | CLEAN CARFAX | (Rates from 0.90% Financing)",
+      "vin": "JA4T5VA91SZ603329",
+      "url": "https://willyml1979-dotcom.github.io/go-langley-mitsubishi-mirror/used/ee965831d692.html",
       "year": 2025,
       "make": "Mitsubishi",
-      "model": "Outlander",
+      "model": "Outlander PHEV",
       "condition": "used",
-      "price": 38398.0,
+      "price": 45382.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2025 Mitsubishi Outlander PHEV ",
+      "vin": "JA4T5VA94SZ601140",
+      "url": "https://willyml1979-dotcom.github.io/go-langley-mitsubishi-mirror/used/996507586acf.html",
+      "year": 2025,
+      "make": "Mitsubishi",
+      "model": "Outlander PHEV",
+      "condition": "used",
+      "price": 40999.0,
       "price_currency": "CAD"
     },
     {
@@ -1101,7 +1049,18 @@
       "make": "Mitsubishi",
       "model": "Outlander",
       "condition": "used",
-      "price": 29878.0,
+      "price": 28999.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2025 Mitsubishi Outlander ES",
+      "vin": "JA4J4UA87SZ623290",
+      "url": "https://willyml1979-dotcom.github.io/go-langley-mitsubishi-mirror/used/3e5212475282.html",
+      "year": 2025,
+      "make": "Mitsubishi",
+      "model": "Outlander",
+      "condition": "used",
+      "price": 32297.0,
       "price_currency": "CAD"
     },
     {
@@ -1112,7 +1071,7 @@
       "make": "Mitsubishi",
       "model": "RVR",
       "condition": "used",
-      "price": 28872.0,
+      "price": 27797.0,
       "price_currency": "CAD"
     },
     {
@@ -1123,18 +1082,7 @@
       "make": "Nissan",
       "model": "Kicks",
       "condition": "used",
-      "price": 27872.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Volkswagen Taos COMFORTLINE | 4MOTION | CLEAN CARFAX | LANE KEEP",
-      "vin": "3VVUC7B23SM061909",
-      "url": "https://willyml1979-dotcom.github.io/go-langley-mitsubishi-mirror/used/e0f47eb30c4b.html",
-      "year": 2025,
-      "make": "Volkswagen",
-      "model": "Taos",
-      "condition": "used",
-      "price": 25892.0,
+      "price": 26321.0,
       "price_currency": "CAD"
     },
     {
@@ -1149,6 +1097,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2026 Honda Odyssey Black Edition",
+      "vin": "5FNRL6H02TB501628",
+      "url": "https://willyml1979-dotcom.github.io/go-langley-mitsubishi-mirror/used/821575ebf2d7.html",
+      "year": 2026,
+      "make": "Honda",
+      "model": "Odyssey",
+      "condition": "used",
+      "price": 57999.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2026 Hyundai Tucson PREFERRED | AWD | CLEAN CARFAX | BC LOCAL",
       "vin": "KM8JBCDE7TU448539",
       "url": "https://willyml1979-dotcom.github.io/go-langley-mitsubishi-mirror/used/0cfeca27de17.html",
@@ -1156,7 +1115,7 @@
       "make": "Hyundai",
       "model": "Tucson",
       "condition": "used",
-      "price": 29899.0,
+      "price": 29393.0,
       "price_currency": "CAD"
     },
     {
@@ -1182,6 +1141,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2026 Mercedes-Benz GLA 4 MATIC | CLEAN CARFAX | BC LOCAL | 1 OWNER",
+      "vin": "W1N4N4HBXTJ763750",
+      "url": "https://willyml1979-dotcom.github.io/go-langley-mitsubishi-mirror/used/8e8df1ae9c0c.html",
+      "year": 2026,
+      "make": "Mercedes-Benz",
+      "model": "GLA",
+      "condition": "used",
+      "price": 36597.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2026 Mitsubishi Eclipse Cross NOIR | S-AWC | CLEAN CARFAX | BC LOCAL | SUNROOF",
       "vin": "JA4ATVAA1TZ603663",
       "url": "https://willyml1979-dotcom.github.io/go-langley-mitsubishi-mirror/used/ab997e75b256.html",
@@ -1189,7 +1159,7 @@
       "make": "Mitsubishi",
       "model": "Eclipse Cross",
       "condition": "used",
-      "price": 34782.0,
+      "price": 33797.0,
       "price_currency": "CAD"
     },
     {
@@ -1226,6 +1196,28 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2026 Mitsubishi Outlander PHEV SE | S-AWC | CLEAN CARFAX | BC LOCAL | 1 OWNER",
+      "vin": "JA4T5VA92TZ615779",
+      "url": "https://willyml1979-dotcom.github.io/go-langley-mitsubishi-mirror/used/5049e012e8de.html",
+      "year": 2026,
+      "make": "Mitsubishi",
+      "model": "Outlander PHEV",
+      "condition": "used",
+      "price": 47397.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Mitsubishi Outlander SE | S-AWC | 4.99% / EMPLOYEE PRICE DISCOUNT",
+      "vin": "JA4J4VAB9TZ612746",
+      "url": "https://willyml1979-dotcom.github.io/go-langley-mitsubishi-mirror/used/2c9ab3bd7520.html",
+      "year": 2026,
+      "make": "Mitsubishi",
+      "model": "Outlander",
+      "condition": "used",
+      "price": 37999.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2026 Mitsubishi Outlander ES | S-AWC | BC LOCAL (Rates from 0.90% Financing)",
       "vin": "JA4J4UAB2TZ608919",
       "url": "https://willyml1979-dotcom.github.io/go-langley-mitsubishi-mirror/used/f0250a5709da.html",
@@ -1233,7 +1225,7 @@
       "make": "Mitsubishi",
       "model": "Outlander",
       "condition": "used",
-      "price": 35999.0,
+      "price": 34597.0,
       "price_currency": "CAD"
     },
     {
@@ -2712,24 +2704,13 @@
     },
     {
       "name": "2026 Nissan Rogue SV | AWD | CLEAN CARFAX | BC LOCAL | PANOROOF",
-      "vin": "JN8BT3BB3TW376214",
-      "url": "https://willyml1979-dotcom.github.io/go-langley-mitsubishi-mirror/used/b4b589d10314.html",
-      "year": 2026,
-      "make": "Nissan",
-      "model": "Rogue",
-      "condition": "used",
-      "price": 28487.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Nissan Rogue SV | AWD | CLEAN CARFAX | BC LOCAL | PANOROOF",
       "vin": "JN8BT3BB5TW095158",
       "url": "https://willyml1979-dotcom.github.io/go-langley-mitsubishi-mirror/used/2a913bf89a5b.html",
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
       "condition": "used",
-      "price": 28298.0,
+      "price": 28350.0,
       "price_currency": "CAD"
     },
     {
