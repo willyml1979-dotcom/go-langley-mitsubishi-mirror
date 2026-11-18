@@ -1,6 +1,6 @@
 {
   "dealership": "Go Langley Mitsubishi",
-  "generated_at": "2026-11-18T16:05:08",
+  "generated_at": "2026-11-18T16:20:07",
   "vehicle_count": 274,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -1352,36 +1352,36 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Mitsubishi Eclipse Cross ES | S-AWC | MANAGER'S DEMO | $3750 OFF",
+      "name": "2026 Mitsubishi Eclipse Cross ES | S-AWC | MANAGER'S DEMO",
       "vin": "JA4ATUAA7TZ604018",
       "url": "https://willyml1979-dotcom.github.io/go-langley-mitsubishi-mirror/new/f1c120236ee0.html",
       "year": 2026,
       "make": "Mitsubishi",
       "model": "Eclipse Cross",
       "condition": "new",
-      "price": 28173.0,
+      "price": 26999.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Mitsubishi Eclipse Cross SE | S-AWC | MANAGER'S DEMO | $3750 OFF",
+      "name": "2026 Mitsubishi Eclipse Cross SE | S-AWC | 96 MONTH 4.99% | MANAGER'S DEMO",
       "vin": "JA4ATVAA3TZ605365",
       "url": "https://willyml1979-dotcom.github.io/go-langley-mitsubishi-mirror/new/88ea2b65c14a.html",
       "year": 2026,
       "make": "Mitsubishi",
       "model": "Eclipse Cross",
       "condition": "new",
-      "price": 31523.0,
+      "price": 29999.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Mitsubishi Eclipse Cross SE | S-AWC | MANAGER'S DEMO | $3750 OFF",
+      "name": "2026 Mitsubishi Eclipse Cross SE | S-AWC | 96 MONTH 4.99% | MANAGER'S DEMO",
       "vin": "JA4ATVAA7TZ606471",
       "url": "https://willyml1979-dotcom.github.io/go-langley-mitsubishi-mirror/new/76bceba4d1f2.html",
       "year": 2026,
       "make": "Mitsubishi",
       "model": "Eclipse Cross",
       "condition": "new",
-      "price": 31673.0,
+      "price": 30499.0,
       "price_currency": "CAD"
     },
     {
@@ -1506,62 +1506,62 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Mitsubishi Outlander PHEV GT | S-AWC | PANOROOF | 360 CAM | $6750 OFF",
+      "name": "2026 Mitsubishi Outlander PHEV GT | S-AWC | 3.49% / EMPLOYEE PRICE DISCOUNT",
       "vin": "JA4T5WA94TZ608662",
       "url": "https://willyml1979-dotcom.github.io/go-langley-mitsubishi-mirror/new/114648101e85.html",
       "year": 2026,
       "make": "Mitsubishi",
       "model": "Outlander PHEV",
       "condition": "new",
-      "price": 56523.0,
+      "price": 55999.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Mitsubishi Outlander PHEV GT | S-AWC | PANOROOF | 360 CAM | $6750 OFF",
+      "name": "2026 Mitsubishi Outlander PHEV GT | S-AWC | 3.49% / EMPLOYEE PRICE DISCOUNT",
       "vin": "JA4T5WA95TZ608668",
       "url": "https://willyml1979-dotcom.github.io/go-langley-mitsubishi-mirror/new/5737099aafe9.html",
       "year": 2026,
       "make": "Mitsubishi",
       "model": "Outlander PHEV",
       "condition": "new",
-      "price": 56523.0,
+      "price": 55999.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Mitsubishi Outlander PHEV GT-P | S-AWC | 360 CAM | MASSAGE SEAT | $6250 OFF",
+      "name": "2026 Mitsubishi Outlander PHEV GT-P | S-AWC | 3.49% / EMPLOYEE PRICE DISCOUNT",
       "vin": "JA4T5WA95TZ608847",
       "url": "https://willyml1979-dotcom.github.io/go-langley-mitsubishi-mirror/new/c4fcb6fbb407.html",
       "year": 2026,
       "make": "Mitsubishi",
       "model": "Outlander PHEV",
       "condition": "new",
-      "price": 58123.0,
+      "price": 57599.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Mitsubishi Outlander PHEV GT | S-AWC | PANOROOF | 360 CAM | $6750 OFF",
+      "name": "2026 Mitsubishi Outlander PHEV GT | S-AWC | 3.49% / EMPLOYEE PRICE DISCOUNT",
       "vin": "JA4T5WA95TZ608413",
       "url": "https://willyml1979-dotcom.github.io/go-langley-mitsubishi-mirror/new/f0adba3f78fb.html",
       "year": 2026,
       "make": "Mitsubishi",
       "model": "Outlander PHEV",
       "condition": "new",
-      "price": 56523.0,
+      "price": 55999.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Mitsubishi Outlander PHEV GT | S-AWC | PANOROOF | 360 CAM | $6750 OFF",
+      "name": "2026 Mitsubishi Outlander PHEV GT | S-AWC | 3.49% / EMPLOYEE PRICE DISCOUNT",
       "vin": "JA4T5WA99TZ608768",
       "url": "https://willyml1979-dotcom.github.io/go-langley-mitsubishi-mirror/new/50e592ff1ceb.html",
       "year": 2026,
       "make": "Mitsubishi",
       "model": "Outlander PHEV",
       "condition": "new",
-      "price": 56523.0,
+      "price": 55999.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Mitsubishi Outlander PHEV SE | S-AWC | PANOROOF | YAMAHA SOUND | $875O OFF",
+      "name": "2026 Mitsubishi Outlander PHEV SE | S-AWC | 3.49% / EMPLOYEE PRICE DISCOUNT",
       "vin": "JA4T5VA90TZ610788",
       "url": "https://willyml1979-dotcom.github.io/go-langley-mitsubishi-mirror/new/bb2219d2d845.html",
       "year": 2026,
@@ -1572,25 +1572,25 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Mitsubishi Outlander PHEV GT | S-AWC | PANOROOF | 360 CAM | $6750 OFF",
+      "name": "2026 Mitsubishi Outlander PHEV GT | S-AWC | 3.49% / EMPLOYEE PRICE DISCOUNT",
       "vin": "JA4T5WA91TZ610708",
       "url": "https://willyml1979-dotcom.github.io/go-langley-mitsubishi-mirror/new/7d9fc875c3d6.html",
       "year": 2026,
       "make": "Mitsubishi",
       "model": "Outlander PHEV",
       "condition": "new",
-      "price": 56523.0,
+      "price": 55999.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Mitsubishi Outlander PHEV GT | S-AWC | PANOROOF | 360 CAM | $6750 OFF",
+      "name": "2026 Mitsubishi Outlander PHEV GT | S-AWC | 3.49% / EMPLOYEE PRICE DISCOUNT",
       "vin": "JA4T5WA96TZ610462",
       "url": "https://willyml1979-dotcom.github.io/go-langley-mitsubishi-mirror/new/d829604f74a3.html",
       "year": 2026,
       "make": "Mitsubishi",
       "model": "Outlander PHEV",
       "condition": "new",
-      "price": 56973.0,
+      "price": 56299.0,
       "price_currency": "CAD"
     },
     {
@@ -2144,36 +2144,36 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Mitsubishi Outlander LE | S-AWC | PANOROOF | YAMAHA | 1.99% / $4750 OFF",
+      "name": "2026 Mitsubishi Outlander LE | S-AWC | 4.99% / EMPLOYEE PRICE DISCOUNT",
       "vin": "JA4J4VAB8TZ609126",
       "url": "https://willyml1979-dotcom.github.io/go-langley-mitsubishi-mirror/new/cddca7f34a09.html",
       "year": 2026,
       "make": "Mitsubishi",
       "model": "Outlander",
       "condition": "new",
-      "price": 40123.0,
+      "price": 39999.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Mitsubishi Outlander GT | S-AWC | PANOROOF | 360 CAM 1.99% / $4750 OFF",
+      "name": "2026 Mitsubishi Outlander GT | S-AWC | 4.99% / EMPLOYEE PRICE DISCOUNT",
       "vin": "JA4J4WAB3TZ611226",
       "url": "https://willyml1979-dotcom.github.io/go-langley-mitsubishi-mirror/new/be4c29a02f88.html",
       "year": 2026,
       "make": "Mitsubishi",
       "model": "Outlander",
       "condition": "new",
-      "price": 45773.0,
+      "price": 45499.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Mitsubishi Outlander GT | S-AWC | PANOROOF | 360 CAM 1.99% / $4750 OFF",
+      "name": "2026 Mitsubishi Outlander GT | S-AWC | 4.99% / EMPLOYEE PRICE DISCOUNT",
       "vin": "JA4J4WAB2TZ611184",
       "url": "https://willyml1979-dotcom.github.io/go-langley-mitsubishi-mirror/new/e04cbca7c78a.html",
       "year": 2026,
       "make": "Mitsubishi",
       "model": "Outlander",
       "condition": "new",
-      "price": 45773.0,
+      "price": 45499.0,
       "price_currency": "CAD"
     },
     {
@@ -2540,14 +2540,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Mitsubishi RVR SEL | AWC | 96 MONTHS AVAIL. | 2.99% OR $1750 OFF",
+      "name": "2026 Mitsubishi RVR SEL AWC 84 MONTHS 2.99% / EMPLOYEE PRICE DISCOUNT",
       "vin": "JA4AJVAW4TU600562",
       "url": "https://willyml1979-dotcom.github.io/go-langley-mitsubishi-mirror/new/e691699643d6.html",
       "year": 2026,
       "make": "Mitsubishi",
       "model": "RVR",
       "condition": "new",
-      "price": 32423.0,
+      "price": 30499.0,
       "price_currency": "CAD"
     },
     {
