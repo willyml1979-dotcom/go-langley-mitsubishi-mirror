@@ -1,6 +1,6 @@
 {
   "dealership": "Go Langley Mitsubishi",
-  "generated_at": "2026-11-17T22:14:05",
+  "generated_at": "2026-11-18T07:33:08",
   "vehicle_count": 274,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -70,14 +70,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2018 Mercedes-Benz C-Class Sedan C 300 4MATIC Sedan",
+      "name": "2018 Mercedes-Benz C-Class Sedan 4MATIC | SMALL CLAIM CARFAX | BC LOCAL | PANOROOF",
       "vin": "55SWF4KB1JU262738",
       "url": "https://willyml1979-dotcom.github.io/go-langley-mitsubishi-mirror/used/01235f070b8c.html",
       "year": 2018,
       "make": "Mercedes-Benz",
       "model": "C-Class",
       "condition": "used",
-      "price": 21999.0,
+      "price": 20999.0,
       "price_currency": "CAD"
     },
     {
@@ -266,14 +266,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2020 Hyundai Santa Fe 2.4L Preferred AWD",
+      "name": "2020 Hyundai Santa Fe PREFERRED | AWD | BC LOCAL | ADAPTIVE CRUISE",
       "vin": "5NMS3CAD5LH137782",
       "url": "https://willyml1979-dotcom.github.io/go-langley-mitsubishi-mirror/used/e665500912d8.html",
       "year": 2020,
       "make": "Hyundai",
       "model": "Santa Fe",
       "condition": "used",
-      "price": 17999.0,
+      "price": 16697.0,
       "price_currency": "CAD"
     },
     {
@@ -306,7 +306,7 @@
       "make": "Nissan",
       "model": "Rogue",
       "condition": "used",
-      "price": 15497.0,
+      "price": 14697.0,
       "price_currency": "CAD"
     },
     {
@@ -337,7 +337,7 @@
       "make": "Mazda",
       "model": "Mazda3",
       "condition": "used",
-      "price": 21597.0,
+      "price": 21297.0,
       "price_currency": "CAD"
     },
     {
@@ -348,7 +348,7 @@
       "make": "Mercedes-Benz",
       "model": "GLA",
       "condition": "used",
-      "price": 25999.0,
+      "price": 25473.0,
       "price_currency": "CAD"
     },
     {
@@ -379,7 +379,7 @@
       "make": "Porsche",
       "model": "Macan",
       "condition": "used",
-      "price": 42231.0,
+      "price": 41667.0,
       "price_currency": "CAD"
     },
     {
@@ -401,7 +401,7 @@
       "make": "Dodge",
       "model": "Charger",
       "condition": "used",
-      "price": 21999.0,
+      "price": 21297.0,
       "price_currency": "CAD"
     },
     {
@@ -412,7 +412,7 @@
       "make": "Ford",
       "model": "Escape Plug-In Hybrid",
       "condition": "used",
-      "price": 22672.0,
+      "price": 21872.0,
       "price_currency": "CAD"
     },
     {
@@ -445,7 +445,7 @@
       "make": "Honda",
       "model": "CR-V",
       "condition": "used",
-      "price": 27597.0,
+      "price": 27382.0,
       "price_currency": "CAD"
     },
     {
@@ -467,7 +467,7 @@
       "make": "Jeep",
       "model": "Wagoneer",
       "condition": "used",
-      "price": 45999.0,
+      "price": 44672.0,
       "price_currency": "CAD"
     },
     {
@@ -509,7 +509,7 @@
       "make": "Mitsubishi",
       "model": "Outlander",
       "condition": "used",
-      "price": 26587.0,
+      "price": 25214.0,
       "price_currency": "CAD"
     },
     {
@@ -546,13 +546,15 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2022 Toyota RAV4 Prime",
+      "name": "2022 Toyota RAV4 Prime XSE | AWD | CLEAN CARFAX | SUNROOF | LANE KEEP",
       "vin": "JTMGB3FV2ND088627",
       "url": "https://willyml1979-dotcom.github.io/go-langley-mitsubishi-mirror/used/54356cdbe792.html",
       "year": 2022,
       "make": "Toyota",
       "model": "RAV4",
-      "condition": "used"
+      "condition": "used",
+      "price": 42794.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2022 Toyota RAV4",
@@ -593,7 +595,7 @@
       "make": "Ford",
       "model": "Bronco Sport",
       "condition": "used",
-      "price": 21999.0,
+      "price": 21672.0,
       "price_currency": "CAD"
     },
     {
@@ -604,7 +606,7 @@
       "make": "Honda",
       "model": "Civic",
       "condition": "used",
-      "price": 28497.0,
+      "price": 27797.0,
       "price_currency": "CAD"
     },
     {
@@ -701,7 +703,7 @@
       "make": "Mitsubishi",
       "model": "RVR",
       "condition": "used",
-      "price": 21192.0,
+      "price": 19791.0,
       "price_currency": "CAD"
     },
     {
