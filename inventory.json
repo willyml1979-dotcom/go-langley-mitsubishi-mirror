@@ -1,6 +1,6 @@
 {
   "dealership": "Go Langley Mitsubishi",
-  "generated_at": "2026-11-18T07:43:20",
+  "generated_at": "2026-11-18T16:05:08",
   "vehicle_count": 274,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -48,14 +48,14 @@
       "condition": "used"
     },
     {
-      "name": "2018 Chevrolet Tahoe ",
+      "name": "2018 Chevrolet Tahoe PREMIER | BC LOCAL | SUNROOF | 7 SEATER | NAVI",
       "vin": "1GNSKCKC3JR377941",
       "url": "https://willyml1979-dotcom.github.io/go-langley-mitsubishi-mirror/used/6934534b4a4a.html",
       "year": 2018,
       "make": "Chevrolet",
       "model": "Tahoe",
       "condition": "used",
-      "price": 38999.0,
+      "price": 37697.0,
       "price_currency": "CAD"
     },
     {
@@ -88,7 +88,7 @@
       "make": "Mitsubishi",
       "model": "Outlander",
       "condition": "used",
-      "price": 12762.0,
+      "price": 12399.0,
       "price_currency": "CAD"
     },
     {
@@ -449,14 +449,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2022 Hyundai Elantra N Line",
+      "name": "2022 Hyundai Elantra N LINE | CLEAN CARFAX | BC LOCAL | 1 OWNER | BOSE",
       "vin": "KMHLR4AF0NU343416",
       "url": "https://willyml1979-dotcom.github.io/go-langley-mitsubishi-mirror/used/b8c9b7cbb15b.html",
       "year": 2022,
       "make": "Hyundai",
       "model": "Elantra",
       "condition": "used",
-      "price": 18321.0,
+      "price": 17697.0,
       "price_currency": "CAD"
     },
     {
@@ -714,7 +714,7 @@
       "make": "Nissan",
       "model": "Altima",
       "condition": "used",
-      "price": 22499.0,
+      "price": 21297.0,
       "price_currency": "CAD"
     },
     {
@@ -725,7 +725,7 @@
       "make": "Nissan",
       "model": "Kicks",
       "condition": "used",
-      "price": 20321.0,
+      "price": 18999.0,
       "price_currency": "CAD"
     },
     {
@@ -976,7 +976,7 @@
       "make": "Subaru",
       "model": "Crosstrek",
       "condition": "used",
-      "price": 26499.0,
+      "price": 27697.0,
       "price_currency": "CAD"
     },
     {
@@ -987,7 +987,7 @@
       "make": "Volkswagen",
       "model": "Tiguan",
       "condition": "used",
-      "price": 29782.0,
+      "price": 29123.0,
       "price_currency": "CAD"
     },
     {
@@ -1161,7 +1161,7 @@
       "make": "Chevrolet",
       "model": "Trailblazer",
       "condition": "used",
-      "price": 27999.0,
+      "price": 27499.0,
       "price_currency": "CAD"
     },
     {
@@ -1194,7 +1194,7 @@
       "make": "Kia",
       "model": "Sportage",
       "condition": "used",
-      "price": 33123.0,
+      "price": 32297.0,
       "price_currency": "CAD"
     },
     {
@@ -1205,7 +1205,7 @@
       "make": "Kia",
       "model": "Sportage",
       "condition": "used",
-      "price": 33499.0,
+      "price": 32697.0,
       "price_currency": "CAD"
     },
     {
@@ -1242,25 +1242,25 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Mitsubishi Outlander PHEV SEL",
+      "name": "2026 Mitsubishi Outlander PHEV SEL | S-AWC | CLEAN CARFAX | BC LOCAL | 1 OWNER",
       "vin": "JA4T5VA91TZ610556",
       "url": "https://willyml1979-dotcom.github.io/go-langley-mitsubishi-mirror/used/af91f1b9a03f.html",
       "year": 2026,
       "make": "Mitsubishi",
       "model": "Outlander PHEV",
       "condition": "used",
-      "price": 53999.0,
+      "price": 51872.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Mitsubishi Outlander PHEV SE",
+      "name": "2026 Mitsubishi Outlander PHEV SE | S-AWC | 1 OWNER | BC LOCAL | CLEAN CARFAX",
       "vin": "JA4T5VA9XTZ608966",
       "url": "https://willyml1979-dotcom.github.io/go-langley-mitsubishi-mirror/used/673ede7b5338.html",
       "year": 2026,
       "make": "Mitsubishi",
       "model": "Outlander PHEV",
       "condition": "used",
-      "price": 47897.0,
+      "price": 46872.0,
       "price_currency": "CAD"
     },
     {
@@ -2635,7 +2635,7 @@
       "make": "Nissan",
       "model": "Rogue",
       "condition": "used",
-      "price": 29231.0,
+      "price": 28499.0,
       "price_currency": "CAD"
     },
     {
@@ -2646,7 +2646,7 @@
       "make": "Nissan",
       "model": "Rogue",
       "condition": "used",
-      "price": 29672.0,
+      "price": 28672.0,
       "price_currency": "CAD"
     },
     {
@@ -2668,7 +2668,7 @@
       "make": "Volkswagen",
       "model": "Taos",
       "condition": "used",
-      "price": 29999.0,
+      "price": 29299.0,
       "price_currency": "CAD"
     },
     {
