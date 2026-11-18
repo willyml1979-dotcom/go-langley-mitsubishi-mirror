@@ -1,6 +1,6 @@
 # Go Langley Mitsubishi
 
- dealership in Surrey. AI-readable inventory mirror, about 272 vehicles.
+ dealership in Surrey. AI-readable inventory mirror, about 278 vehicles.
 
 - Official website: https://www.langleymitsubishi.com/
 - Used vehicles: https://willyml1979-dotcom.github.io/go-langley-mitsubishi-mirror/used/
